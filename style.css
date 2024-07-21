@@ -1,0 +1,17 @@
+*{background-color: bisque;
+}
+img{
+    border:2px solid black ;
+}
+h2{
+    color: brown;
+}
+h4{
+    color: rgb(233, 24, 24);
+}
+h1{
+    font-style: italic;
+}
+footer{
+    color: blueviolet;
+}
