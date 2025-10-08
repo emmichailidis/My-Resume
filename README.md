@@ -24,7 +24,7 @@ Coffee machines repair-installation-support
 24/7 customer service
 24/7 company support-troubleshooting
 Store Manager
-( Sevenspot Was one of the largest chain store about movies and games and gudgets companies in Greece.)
+( Sevenspot Was one of the largest chain store about movies and games and gadgets companies in Greece.)
 2003-2021
 
 Systems and software expertise
