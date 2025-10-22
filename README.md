@@ -1,4 +1,4 @@
-https://emmichailidis.github.io/My-Resume/
+https://emmichailidis.github.io/My-Resume/<br>
 Michailidis Manos
 Michailidis Manos image
 Personal Info
